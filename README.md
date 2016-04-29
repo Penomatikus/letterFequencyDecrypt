@@ -4,7 +4,7 @@ Little tool I've wrote to decrypt some encrypted files for the course "Data prot
 **SHA256** LetterFrequency.jar: 43f31f55519e07cb3dff347987b8d9650e56777084f67f74144ee66a480d4dc2
 
 ###Attention!  
-Since this was only for my cource, the code will just work under the following circumstances:  
+Since this was only for my course, the code will just work under the following circumstances:  
 * The encrypted string stores a German language conform text
 * The encrypted string do only have upper case letters
 * The encrypted string do only user [A-Z]  
