@@ -1,5 +1,6 @@
 # letterFequencyDecrypt
-Little tool I've wrote to decrypt some encrypted files for the course "Data protection and data safety" at HTW Berlin.
+Little tool I've wrote to decrypt some encrypted files for the course "Data protection and data safety" at HTW Berlin.  
+
 **SHA256** LetterFrequency.jar: 43f31f55519e07cb3dff347987b8d9650e56777084f67f74144ee66a480d4dc2
 
 ###Attention!  
